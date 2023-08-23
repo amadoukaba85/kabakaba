@@ -1,0 +1,2 @@
+# kabakaba
+setting up Git
